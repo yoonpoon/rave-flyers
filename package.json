@@ -14,7 +14,7 @@
     "@nuxtjs/apollo": "^4.0.1-rc.1",
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.0.0",
     "tachyons": "^4.11.1",
     "vue-masonry": "^0.11.8"
   },
